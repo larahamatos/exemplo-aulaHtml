@@ -1,5 +1,5 @@
 # exemplo-aulaHtml
-
+```html
 # HTML  
 <!DOCTYPE html>
 <html lang="pt-BR">
@@ -62,10 +62,10 @@
        </html>
 
 # HTML 2
-<!DOCTYPE html>
-<html lang="pt-BR">
+    <!DOCTYPE html>
+    <html lang="pt-BR">
 <head>
-    <meta charset="UTF-8">
+          <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 </head>
@@ -184,3 +184,4 @@ main {
     background-color: #FFDEAD;
     border-radius: 10px;
 }
+```
